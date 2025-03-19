@@ -6,13 +6,13 @@ Below are the images related to the project:
 ![Front of the Bin Setup](images/front_of_bin_setup.jpg)
 *Front setup of the SmartBin.*
 
-![Mechanism of the Bin](images/mechanism_of_bin.jpg)
+![Mechanism of the Bin](images/mechanism_of_bin.jpeg)
 *The mechanism behind the SmartBin.*
 
-![Circuit Diagram](images/circuit_pic_of_bin_inside.jpg)
+![Circuit Diagram](images/circuit_pic_of_bin_inside.jpeg)
 *Circuit setup of the SmartBin.*
 
-![Blynk App Interface](images/blynk_app_interface.jpg)
+![Blynk App Interface](images/blynk_app_interface.jpeg)
 *The Blynk app interface for monitoring the SmartBin.*
 
 ## Description
